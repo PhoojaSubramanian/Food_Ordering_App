@@ -1,0 +1,28 @@
+.signup-container {
+    max-width: 700px;
+    margin-top: 5px;
+    margin-left: 200px;
+    padding: 15px;
+    background-color:RGB(255,179,71);
+    font-variant: small-caps;
+    flex-wrap: wrap;
+    border-radius: 5px;
+    max-height: 600px;
+  }
+  .signup-container:hover
+  {
+    box-shadow: 1px 1px 10px 0px black;
+  }
+  .sign-form
+  {
+    padding: 10px;
+  }
+  #nam,#pass,#cpass,#mob
+  {
+    color: red;
+    font-size: small;
+  }
+  label{
+    display: inline-block;
+    width: 150px;
+  }
