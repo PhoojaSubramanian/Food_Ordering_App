@@ -1,0 +1,40 @@
+.sub_cart
+{
+    background-color: rgb(233, 228, 228);
+    margin: 20px;
+    padding: 20px;
+    /* display: flex; */
+    /* border-radius: 5px; */
+    /* border : 1px solid black */
+}
+.ordered_food_img
+{
+    border-radius: 5px;
+}
+#first_div
+{
+    display: flex;
+    gap: 2rem;
+    font-variant: small-caps;
+}
+.first_div_sub
+{
+    display: flex;
+    flex-direction: column;
+}
+.second_div
+{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}
+.bill
+{
+    display: flex;
+    color:darkslategrey;
+    /* font-weight: 200; */
+}
+.bill_right,.bill_left
+{
+    padding-left: 10px;
+}
