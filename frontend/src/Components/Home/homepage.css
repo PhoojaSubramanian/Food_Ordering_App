@@ -1,0 +1,40 @@
+.sear
+{
+    width: 500px;
+    /* height: 25px; */
+    border-radius: 7px;
+    /* margin-top: 100px; */
+    color: rgb(15, 15, 15);
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.sub
+{
+    height: 50px;
+    width: 45px;
+    border-radius: 10px;
+}
+/* *
+{
+    font-family: 'Tektur', cursive; */
+    /* font-family: 'Jost', sans-serif; */
+    /* font-family: 'Architects Daughter', cursive; */
+    /* font-family: 'Marck Script', cursive; */
+    /* font-family: 'Allura', cursive; */
+    /* font-family: 'Bungee'; */
+    /* font-family: 'Homemade Apple', cursive; */
+    /* font-family: 'Shrikhand', cursive; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    /* font-family: 'Merienda'; */
+    /* font-family: 'Kotta One', serif; */
+    /* font-family: 'Trade Winds'; */
+    /* font-family: 'Trade Winds', cursive; */
+    /* font-family: 'Trade Winds', cursive; */
+    /* font-family: 'Akronim', cursive; */
+/* } */
+.offer_image
+{
+    height: 250px;
+    width:250px;
+    padding: 20px;
+}

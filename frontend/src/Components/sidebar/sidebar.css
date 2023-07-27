@@ -1,0 +1,29 @@
+/* sidebar.css */
+.sidebar {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 70%;
+  /* background-color: #f0f0f0ad; */
+  background-color: #f0f0f0e7;
+  padding: 20px;
+  box-shadow: 2px 0px 5px rgba(240, 10, 10, 0.2);
+}
+
+.close-button {
+  height: 40px;
+  cursor: pointer;
+}
+
+.options_sidebar
+{
+  display: flex;
+  flex-direction: column;
+}
+.options_option 
+{
+  width: 190px;
+  padding: 10px;
+  background-color: rgba(240, 248, 255, 0.596);
+}

@@ -1,0 +1,54 @@
+.sub_cart
+{
+    background-color: rgb(233, 228, 228);
+    margin-left: 40px;
+    padding: 20px;
+    width: 600px;
+}
+
+#first_div
+{
+    display: flex;
+    gap: 2rem;
+    font-variant: small-caps;
+}
+.first_div_sub
+{
+    display: flex;
+    flex-direction: column;
+}
+.second_div
+{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    /* background-color: yellowgreen; */
+}
+.bill
+{
+    display: flex;
+    color:rgb(50, 107, 107);
+    font-size: smaller;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.bill_right,.bill_left
+{
+    padding-left: 10px;
+}
+.main_cart
+{
+    display: flex;
+}
+.cart_right_main
+{
+    margin: 80px;
+    padding: 30px;
+    background-color: rgb(233, 228, 228);
+}
+.step
+{
+    width: 700px;
+    margin-left: 300px;
+    padding: 50px;
+}

@@ -1,0 +1,38 @@
+.rest_main{
+    padding: 60px;
+    /* background-color: aquamarine; */
+    
+}
+.rest_main a{
+    color: inherit;
+}
+.main_rest
+{
+    display: inline-block;
+    margin: 30px;
+    width: 300px;
+    border: 2px solid rgba(255, 68, 0, 0.7);
+    padding: 10px;
+    border-radius: 10px;
+    height: 250px;
+}
+
+.rest_menu
+{
+    display: flex;
+    gap: 5rem;
+}
+.filter
+{
+    height: 30px;
+    padding: 20px;
+    padding-left: 80px;
+    display: flex;
+    gap: 5rem;
+    background-color: whitesmoke;
+}
+.filter button{
+    padding: 15px;
+    border:  none;
+    font-size: medium;
+}

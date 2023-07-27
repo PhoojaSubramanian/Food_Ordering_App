@@ -1,0 +1,79 @@
+.container  { 
+  height:550px;
+  padding: 50px;
+  background-image: url('./black_food.jpg');
+ }
+ .left:hover,.right:hover
+ {
+  box-shadow: 1px 1px 10px 0px black;
+ }
+.login-container div{
+    float:left;
+    margin:2px;
+}
+.log{
+  display: flex;
+  flex-direction: column;
+}
+
+.login-form {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+#number
+{
+  width: 320px;
+  border-radius: 15px;
+  margin-bottom: 30px;
+  font-variant: small-caps;
+}
+
+label {
+  font-weight: bold;
+  padding-right: 10px;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+#login-sub{
+  padding: 12px;
+  /* margin-top: 20px; */
+  background: #b9c8d8d8;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  width: 350px;
+  font-variant: small-caps;
+}
+
+
+.left
+{
+  width:400px;
+  height:470px;
+  background-color: white;
+  padding: 10px;
+  border-radius: 5px;
+  
+}
+.right
+{
+  width:400px;
+  height:470px;
+  background-image: url('./delivery-man1.jpg');
+  padding: 10px;
+  font-size: 25px;
+  border-radius: 5px;
+}
+#forgot
+{
+  margin-left: 200px;
+}
+.app_name
+{
+  font-variant: small-caps;
+}

@@ -1,0 +1,20 @@
+.main_display_restaurant
+{
+    width: 1100px;
+    margin-left: 90px;
+    margin-top: 40px;
+    padding: 20px;
+    /* background-color: antiquewhite; */
+}
+.top_restaurant
+{
+    display: flex;
+    gap: 48rem;
+}
+.food_div
+{
+    display: flex;
+    gap: 7rem;
+    background-color: rgba(255, 246, 240, 0.877);
+    padding: 10px;
+}

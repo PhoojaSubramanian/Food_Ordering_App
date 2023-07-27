@@ -1,0 +1,41 @@
+.owner-list-container {
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .owner-item {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #ccc;
+  }
+  
+  .add-owner-btn {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    float: right;
+  }
+  
+  .add-owner-btn:hover {
+    background-color: #45a049;
+  }
+  .updateowner
+  {
+    border: 2px solid black;
+    height: 300px;
+    width:500px;
+    position: fixed;
+    bottom: 150px;
+    left: 300px;
+    background-color: white;
+    padding: 20px;
+  }

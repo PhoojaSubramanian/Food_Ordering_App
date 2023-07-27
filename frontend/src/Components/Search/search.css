@@ -1,0 +1,24 @@
+.main_search_bar
+{
+    margin-top: 30px;
+}
+.main_search
+{
+    background-image: url('./food_bg.jpg');
+    height: 570px;
+}
+.popular_foods,.popular_rests
+{
+    height: 60px;
+    border-radius: 70%;
+}
+.popular_food_div,.popular_rest_div
+{
+    display: flex;
+    padding-left: 300px;
+    gap: 1rem;
+}
+#pop_food_head,#pop_rest_head
+{
+    padding-left: 300px;
+}
