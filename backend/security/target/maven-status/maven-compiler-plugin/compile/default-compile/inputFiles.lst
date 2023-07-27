@@ -1,0 +1,14 @@
+E:\security\src\main\java\com\example\demo\service\AuthenticationService.java
+E:\security\src\main\java\com\example\demo\config\SecurityConfiguration.java
+E:\security\src\main\java\com\example\demo\controller\DemoController.java
+E:\security\src\main\java\com\example\demo\dto\request\RegisterRequest.java
+E:\security\src\main\java\com\example\demo\config\JWTAuthenticationFilter.java
+E:\security\src\main\java\com\example\demo\repository\UserRepository.java
+E:\security\src\main\java\com\example\demo\controller\AuthenticationController.java
+E:\security\src\main\java\com\example\demo\entity\Role.java
+E:\security\src\main\java\com\example\demo\config\ApplicationConfig.java
+E:\security\src\main\java\com\example\demo\service\JWTService.java
+E:\security\src\main\java\com\example\demo\dto\response\AuthenticationResponse.java
+E:\security\src\main\java\com\example\demo\entity\User.java
+E:\security\src\main\java\com\example\demo\SecurityApplication.java
+E:\security\src\main\java\com\example\demo\dto\request\AuthenticationRequest.java
